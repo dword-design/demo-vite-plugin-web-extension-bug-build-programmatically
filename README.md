@@ -1,3 +1,5 @@
+https://github.com/aklinker1/vite-plugin-web-extension/issues/180
+
 ```bash
 yarn --frozen-lockfile
 ```
